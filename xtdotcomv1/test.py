@@ -1,6 +1,6 @@
 import pandas as pd
 
-from xtdotcomv1 .private.get_positions import GetPositions
+from xtdotcomv1.private.get_positions import GetPositions
 from xtdotcomv1.private.get_orders import GetOrders
 from xtdotcomv1.private.cancel_order import CancelOrder
 from xtdotcomv1.private.create_order import CreateOrder
