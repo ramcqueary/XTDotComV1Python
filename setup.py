@@ -6,6 +6,7 @@ setup(
   version='1.0.0',
   author='Richard McQueary',
   packages=['xtdotcomv1',
+              'xtdotcomv1.private',
               'xtdotcomv1.utils',
               'xtdotcomv1.public'],
   install_requires=['requests','pandas'],
